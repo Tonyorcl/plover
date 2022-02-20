@@ -202,7 +202,7 @@ KEYMAPS = {
         # Suppress adjacent keys to prevent miss-strokes.
         'no-op'     : ('z', 'x', 'b', ',', '.', '/', ']', '\\'),
             },
-    'Keyboard-CC': {
+    'Passport': {
         '#'         : ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '='),
         'S-'        : ('a', 'q'),
         'T-'        : 'w',
@@ -229,32 +229,6 @@ KEYMAPS = {
         'arpeggiate': 'space',
         # Suppress adjacent keys to prevent miss-strokes.
         'no-op'     : ('x', 'c', 'z', 'h', '.', ',', ';', '\\'),
-    },
-    'Passport': {
-        '#'    : '#',
-        'S-'   : ('S', 'C'),
-        'T-'   : 'T',
-        'K-'   : 'K',
-        'P-'   : 'P',
-        'W-'   : 'W',
-        'H-'   : 'H',
-        'R-'   : 'R',
-        'A-'   : 'A',
-        'O-'   : 'O',
-        '*'    : ('~', '*'),
-        '-E'   : 'E',
-        '-U'   : 'U',
-        '-F'   : 'F',
-        '-R'   : 'Q',
-        '-P'   : 'N',
-        '-B'   : 'B',
-        '-L'   : 'L',
-        '-G'   : 'G',
-        '-T'   : 'Y',
-        '-S'   : 'X',
-        '-D'   : 'D',
-        '-Z'   : 'Z',
-        'no-op': ('!', '^', '+'),
     },
     'Stentura': {
         '#'    : '#',
