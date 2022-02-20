@@ -225,7 +225,7 @@ KEYMAPS = {
         '-T'        : 'y',
         '-S'        : 'i',
         '-D'        : '\"',
-        '-Z'        : 'o'',
+        '-Z'        : 'o',
         'arpeggiate': 'space',
         # Suppress adjacent keys to prevent miss-strokes.
         'no-op'     : ('x', 'c', 'z', 'h', '.', ',', ';', '\\'),
